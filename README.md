@@ -1,10 +1,8 @@
 //Programa para ataque de negação de serviço
 
-
-
-#include <stdlib.h>
-#include <stdio.h>
-#include <netdb.h>
+include <stdlib.h>
+include <stdio.h>
+include <netdb.h>
 
 main(int argc, char *argv[]){
 
